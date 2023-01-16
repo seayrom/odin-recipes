@@ -1,0 +1,11 @@
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+  background-color: rgb(255, 0, 0);
+  width: 500px;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
